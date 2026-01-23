@@ -17,16 +17,14 @@
 
 ---
 
----
-
 ## 🚀 Proyectos en funcionamiento (deploy)
 
 ### 1) Bloom — Web en producción
 - Sitio web publicado y operativo.
 - Enfoque en implementación, estructura y puesta en marcha.
 
-🔗 **Demo/App:** https://jesicaacosta.github.io/bloom/
-💻 **Repo:** https://github.com/jesicaacosta/bloom/tree/main
+🔗 **Demo/App:** https://jesicaacosta.github.io/bloom/ </br>
+💻 **Repo:** https://github.com/jesicaacosta/bloom/tree/main</br>
 
 ---
 
@@ -41,8 +39,8 @@ Stack y decisiones:
 - Reglas por regex y severidad (enfoque didáctico + preventivo).
 - Flujo pensado para “detener el envío” si aparece información crítica.
 
-🔗 **Demo/App:** https://jesicaacosta.github.io/JARG/
-💻 **Repo:** https://github.com/jesicaacosta/JARG/tree/main
+🔗 **Demo/App:** https://jesicaacosta.github.io/JARG/ </br>
+💻 **Repo:** https://github.com/jesicaacosta/JARG/tree/main </br>
 
 
 ---
