@@ -57,4 +57,4 @@ priorizo entender el problema antes que cerrar soluciones rápidamente.
 ## 🌍 Contacto
 
 📍 Argentina  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-url)
+🔗 [LinkedIn](https://www.linkedin.com/in/jesicadaiana)
