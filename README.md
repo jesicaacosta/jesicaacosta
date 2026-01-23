@@ -1,8 +1,3 @@
-
-> Estos porcentajes representan profundidad de aprendizaje, no nivel de expertise.
-
----
-
 ## 🎓 Formación y aprendizaje
 
 - 🏅 **IBM SkillsBuild – Cybersecurity Certificate**
