@@ -23,8 +23,8 @@
 - Sitio web publicado y operativo.
 - Enfoque en implementación, estructura y puesta en marcha.
 
-🔗 **Demo/App:** https://jesicaacosta.github.io/bloom/ </br>
-💻 **Repo:** https://github.com/jesicaacosta/bloom/tree/main</br>
+🔗 **Demo/App:** https://jesicaacosta.github.io/Bloom/ </br>
+💻 **Repo:** https://github.com/jesicaacosta/Bloom/tree/main</br>
 
 ---
 
