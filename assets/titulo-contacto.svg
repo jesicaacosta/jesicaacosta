@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="82" viewBox="0 0 1100 82" role="img" aria-label="Contacto">
+<defs><linearGradient id="g"><stop stop-color="#cda6e8"/><stop offset="1" stop-color="#f09bc8"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="8" width="1098" height="66" rx="14" fill="#211b30" fill-opacity=".72" stroke="#795b91" stroke-opacity=".6"/>
+<rect x="2" y="9" width="4" height="64" rx="2" fill="url(#g)"/>
+<text x="28" y="53" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#cda6e8">♡</text>
+<text x="70" y="52" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#f4eafa">Contacto</text>
+<path d="M70 64H340" stroke="url(#g)" stroke-width="2" stroke-linecap="round"><animate attributeName="d" values="M70 64H270;M70 64H420;M70 64H270" dur="6s" repeatCount="indefinite"/></path>
+<circle cx="1065" cy="41" r="4" fill="#e8a5d1"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1065" cy="41" r="11" fill="none" stroke="#cda6e8" stroke-opacity=".65"><animate attributeName="r" values="5;15;5" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
