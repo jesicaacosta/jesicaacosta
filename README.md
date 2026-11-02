@@ -2,6 +2,17 @@
 
 <img src="./assets/banner-jesica.svg" width="100%" alt="Banner ilustrado de Jesica Acosta: tecnología, desarrollo web y ciberdefensa" />
 
+![Presentación animada](./assets/intro-animada.svg)
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=CDA6E8&center=true&vCenter=true&width=720&lines=Estudiante+de+Ciberdefensa;Desarrollo+web+freelance;Aprendiendo+SQL%2C+redes+e+infraestructura;Construyendo+proyectos+con+IA+y+criterio+t%C3%A9cnico" alt="Texto animado sobre formación y trabajo" />
+</a>
+
+</div>
+
+
 <a href="https://www.linkedin.com/in/jesicadaiana">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -21,6 +32,8 @@
 
 ---
 
+![Separador animado](./assets/divisor-animado.svg)
+
 ## Sobre mí
 
 Soy estudiante de **Licenciatura en Ciberdefensa** y trabajo como freelancer creando y personalizando sitios web. Mi recorrido combina formación académica, práctica técnica y proyectos para clientes.
@@ -28,6 +41,8 @@ Soy estudiante de **Licenciatura en Ciberdefensa** y trabajo como freelancer cre
 Me interesa comprender cómo funcionan los sistemas de punta a punta: bases de datos, redes, infraestructura, aplicaciones y seguridad.
 
 En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y generar código. Mi aporte incluye revisar lo generado, adaptarlo a los requisitos, ajustar el diseño y el funcionamiento, probar y perfeccionar el resultado. La IA es parte de mi flujo de trabajo, no una afirmación de que desarrollo todo desde cero.
+
+![Separador animado](./assets/divisor-animado.svg)
 
 ## Áreas de interés y práctica
 
@@ -53,6 +68,8 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
     </td>
   </tr>
 </table>
+
+![Separador animado](./assets/divisor-animado.svg)
 
 ## Proyectos destacados
 
@@ -99,6 +116,8 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
   El alcance, las funciones y las validaciones siguen en proceso; por eso no lo presento como un producto terminado.
 </details>
 
+![Separador animado](./assets/divisor-animado.svg)
+
 ## Herramientas
 
 <div align="center">
@@ -115,13 +134,26 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 <sub>Estas herramientas reflejan mi formación y práctica actual. El nivel de experiencia varía según la tecnología.</sub>
 
+![Separador animado](./assets/divisor-animado.svg)
+
 ## Actualmente aprendiendo
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-CIBERDEFENSA-332b48?style=for-the-badge&labelColor=1b1a29" alt="Ciberdefensa" />
+<img src="https://img.shields.io/badge/02-BASES%20DE%20DATOS-49334e?style=for-the-badge&labelColor=1b1a29" alt="Bases de datos" />
+<img src="https://img.shields.io/badge/03-REDES%20E%20INFRAESTRUCTURA-554064?style=for-the-badge&labelColor=1b1a29" alt="Redes e infraestructura" />
+<img src="https://img.shields.io/badge/04-DESARROLLO%20WEB-765078?style=for-the-badge&labelColor=1b1a29" alt="Desarrollo web" />
+
+</div>
 
 - Ciberdefensa y fundamentos de seguridad informática.
 - Bases de datos relacionales, SQL y SQLite.
 - Redes, telecomunicaciones y simulaciones con Packet Tracer.
 - Desarrollo web, publicación y mantenimiento de sitios.
 - Uso crítico de herramientas de IA en procesos de desarrollo.
+
+![Separador animado](./assets/divisor-animado.svg)
 
 ## Actividad en GitHub
 
@@ -138,6 +170,8 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
   Prácticas de programación, ejercicios de bases de datos, proyectos web y experiencias de aprendizaje. Algunos repositorios son trabajos académicos o experimentales y pueden estar incompletos.
 </details>
+
+![Separador animado](./assets/divisor-animado.svg)
 
 ## Contacto
 
