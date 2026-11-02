@@ -2,17 +2,6 @@
 
 <img src="./assets/banner-jesica.svg" width="100%" alt="Banner ilustrado de Jesica Acosta: tecnología, desarrollo web y ciberdefensa" />
 
-![Presentación animada](./assets/intro-animada.svg)
-
-<div align="center">
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=CDA6E8&center=true&vCenter=true&width=720&lines=Estudiante+de+Ciberdefensa;Desarrollo+web+freelance;Aprendiendo+SQL%2C+redes+e+infraestructura;Construyendo+proyectos+con+IA+y+criterio+t%C3%A9cnico" alt="Texto animado sobre formación y trabajo" />
-</a>
-
-</div>
-
-
 <a href="https://www.linkedin.com/in/jesicadaiana">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -34,7 +23,7 @@
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Sobre mí
+![Sobre mí](./assets/titulo-sobre-mi.svg)
 
 Soy estudiante de **Licenciatura en Ciberdefensa** y trabajo como freelancer creando y personalizando sitios web. Mi recorrido combina formación académica, práctica técnica y proyectos para clientes.
 
@@ -44,7 +33,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Áreas de interés y práctica
+![Áreas de interés y práctica](./assets/titulo-areas.svg)
 
 <table>
   <tr>
@@ -71,7 +60,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Proyectos destacados
+![Proyectos destacados](./assets/titulo-proyectos.svg)
 
 <table>
   <tr>
@@ -118,7 +107,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Herramientas
+![Herramientas](./assets/titulo-herramientas.svg)
 
 <div align="center">
 
@@ -126,9 +115,9 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=flat-square" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+<a href="https://claude.ai/"><img src="./assets/badge-claude.svg" alt="Claude" /></a>
+<a href="https://chatgpt.com/"><img src="./assets/badge-chatgpt.svg" alt="ChatGPT" /></a>
+<a href="https://www.netacad.com/cisco-packet-tracer"><img src="./assets/badge-packet-tracer.svg" alt="Cisco Packet Tracer" /></a>
 
 </div>
 
@@ -136,7 +125,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Actualmente aprendiendo
+![Actualmente aprendiendo](./assets/titulo-aprendiendo.svg)
 
 <div align="center">
 
@@ -155,7 +144,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Actividad en GitHub
+![Actividad en GitHub](./assets/titulo-actividad.svg)
 
 <div align="center">
 
@@ -173,7 +162,7 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 
 ![Separador animado](./assets/divisor-animado.svg)
 
-## Contacto
+![Contacto](./assets/titulo-contacto.svg)
 
 <div align="center">
 
