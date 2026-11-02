@@ -146,8 +146,8 @@ En mis trabajos web utilizo **Claude y ChatGPT** como asistentes para explorar y
 <a href="https://www.linkedin.com/in/jesicadaiana">
   <img src="https://img.shields.io/badge/LinkedIn-Jesica%20Acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jesica" />
 </a>
-<a href="mailto:ajesicadaiana@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contacto-c47ba5?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+<a href="https://github.com/jesicaacosta">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
 </a>
 
 <br/><br/>
