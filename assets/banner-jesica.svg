@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jesica Acosta — Tecnología, desarrollo web y ciberdefensa</title>
+  <desc id="desc">Banner abstracto en tonos oscuros, lavanda y rosa con motivos de redes, código y seguridad.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171827"/>
+      <stop offset=".52" stop-color="#29243d"/>
+      <stop offset="1" stop-color="#50344f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bda7ef" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#e6a4c8" stop-opacity=".75"/>
+    </linearGradient>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#c7a8ec" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#c7a8ec" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#d9c9ef" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="940" cy="120" r="310" fill="url(#orb)"/>
+  <path d="M0 278C190 210 300 350 510 275S860 180 1200 250V340H0Z" fill="#b77cb4" opacity=".10"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".72">
+    <path d="M770 86L885 145L1000 82L1090 142L1160 96"/>
+    <path d="M820 226L930 168L1045 228L1140 177"/>
+    <path d="M885 145L930 168M1000 82L1045 228M1090 142L1140 177"/>
+    <circle cx="770" cy="86" r="7" fill="#c7a8ec"/><circle cx="885" cy="145" r="7" fill="#c7a8ec"/>
+    <circle cx="1000" cy="82" r="7" fill="#e6a4c8"/><circle cx="1090" cy="142" r="7" fill="#c7a8ec"/>
+    <circle cx="1160" cy="96" r="7" fill="#e6a4c8"/><circle cx="820" cy="226" r="7" fill="#e6a4c8"/>
+    <circle cx="930" cy="168" r="7" fill="#c7a8ec"/><circle cx="1045" cy="228" r="7" fill="#e6a4c8"/>
+    <circle cx="1140" cy="177" r="7" fill="#c7a8ec"/>
+  </g>
+  <g transform="translate(940 108)" opacity=".88">
+    <path d="M0 0l54 20v43c0 42-26 68-54 82C-28 131-54 105-54 63V20Z" fill="#1b1b2b" stroke="#e0b6dc" stroke-width="2.5"/>
+    <path d="M-22 57l14 14 31-34" fill="none" stroke="#d6c2f2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#e8dff4" opacity=".6" font-family="monospace" font-size="14">
+    <text x="760" y="55">01 / NETWORK</text>
+    <text x="1010" y="280">02 / SECURITY</text>
+    <text x="770" y="292">03 / BUILD &amp; LEARN</text>
+  </g>
+  <g transform="translate(82 91)">
+    <rect x="0" y="0" width="5" height="154" rx="2.5" fill="url(#glow)"/>
+    <text x="32" y="58" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="1">JESICA ACOSTA</text>
+    <text x="34" y="101" fill="#d9c8ef" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2.2">TECNOLOGÍA · DESARROLLO WEB · CIBERDEFENSA</text>
+    <text x="34" y="140" fill="#d4c9dc" font-family="Arial, Helvetica, sans-serif" font-size="17">Aprendiendo, creando y perfeccionando soluciones digitales.</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="#e5d5ef" stroke-opacity=".18"/>
+</svg>
