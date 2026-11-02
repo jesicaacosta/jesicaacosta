@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="92" viewBox="0 0 340 92" role="img" aria-label="Cisco Packet Tracer NETWORK LABS">
+<defs><linearGradient id="g"><stop stop-color="5B9BD5"/><stop offset="1" stop-color="#d99acb"/></linearGradient><filter id="f"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="3" y="3" width="334" height="86" rx="18" fill="#211b30" stroke="url(#g)" stroke-width="2"/>
+<rect x="3" y="3" width="334" height="86" rx="18" fill="none" stroke="#e9b6e2" stroke-opacity=".4"><animate attributeName="stroke-opacity" values=".12;.8;.12" dur="3.2s" repeatCount="indefinite"/></rect>
+<text x="25" y="56" font-family="Arial,sans-serif" font-size="30" fill="5B9BD5" filter="url(#f)">⌘</text>
+<text x="72" y="42" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Cisco Packet Tracer</text>
+<text x="73" y="65" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#d7c7e4">NETWORK LABS</text>
+<circle cx="315" cy="22" r="3" fill="#f1a5d0"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
